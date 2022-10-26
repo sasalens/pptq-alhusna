@@ -1540,6 +1540,8 @@ padding: 120px 10px 50px 350px;
 	height: 100%;
 	padding-top: 100px;
 	padding-bottom: 100px;
+	padding-right: 10px;
+	padding-left: 10px;
 	background: #FFFFFF;
 }
 
@@ -1548,19 +1550,17 @@ padding: 120px 10px 50px 350px;
 }
 
 .pricing-intro h1 {
-	font-size: 28px;
-	color: #111111;
+	font-size: 35px;
+	color: #1d1d1d;
 	font-weight: 600;
 	line-height: 1.4;
 }
 
 
 .pricing-intro p {
-	font-size: 15px;
-	color: #303030;
-	font-weight: 300;
+	font-size: 16px;	
+	color: #808080;
 	line-height: 1.4;
-	letter-spacing: 1px;
 	margin-top: 10px;
 	margin-bottom: 50px;
 }
@@ -1580,7 +1580,6 @@ padding: 120px 10px 50px 350px;
 }
 
 .table-left .icon, .table-right .icon {
-	font-size:60px;
 	margin: 0 auto;
 	color:#1eb858;
 }
@@ -1588,37 +1587,42 @@ padding: 120px 10px 50px 350px;
 .table-left .pricing-details span, .table-right .pricing-details span {
 	display: inline-block;
 	font-family: roboto;
-	font-size: 28px;
-	font-weight: 400;
 	color: #808080;
 	margin-bottom: 20px;
+	text-align: left;
 }
 
 .table-left .pricing-details h2, .table-right .pricing-details h2 {
-	font-size: 18px;
-	font-weight: 600;
-	color: #505050;
-	margin-bottom: 30px;
+	margin-top: 20px;
+	font-size: 24px;
+	font-weight: 500;
+	color: #292929;
+	margin-bottom: 20px;
 }
 
 .table-left .pricing-details p, .table-right .pricing-details p {
 	font-family: roboto;
-	font-size: 14px;
-	font-weight: 300;
 	color: #505050;
-	letter-spacing: 1px;
 	line-height: 1.4;
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	font-size: 14px;
 }
 
-.table-left .pricing-details ul, .table-right .pricing-details ul {
+.table-left .pricing-details p {
+	text-align: left;
 	margin-top: 30px;
 	margin-bottom: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 
 .table-left .pricing-details li, .table-right .pricing-details li {
 	font-family: roboto;
-	font-size: 14px;
+	font-size: 12px;
 	font-weight: 400;
 	color: #505050;
 	line-height: 1.4;
@@ -1710,7 +1714,6 @@ padding: 120px 10px 50px 350px;
 	line-height: 1.2;
 	margin-top: 10px;
 	margin-bottom: 0;
-	letter-spacing:-2px;
 }
 
 .cta-sub .cta-inner p {
