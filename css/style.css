@@ -1908,6 +1908,11 @@ font-size: 12px;
 	margin-top: 10px;
 }
 
+.footer a i {
+	color: #1eb858;
+	padding-right: 5px;
+}
+
 
 .product .footer .contact h1, .product .contact i, .product .footer .contact a, .product .footer-text p  {
 	color: #927f54;
