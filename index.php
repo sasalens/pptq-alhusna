@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Assalam Kubar</title>
+<link rel="shortcut icon" href="images/icon1.ico" type="image/x-icon" />
+<link rel="icon" href="images/favicon.png" type="image/png" sizes="16x16">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="iLand Multipurpose Landing Page Template">
+<meta name="keywords" content="iLand HTML Template, iLand Landing Page, Landing Page Template">
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://fonts.googleapis.com/css?family=Open%20Sans:300,400,500,600,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="css/animate.css">
+<!-- Resource style -->
+<link rel="stylesheet" href="css/owl.carousel.css">
+<link rel="stylesheet" href="css/owl.theme.css">
+<link rel="stylesheet" href="css/ionicons.min.css">
+<!-- Resource style -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div class="wrapper">
+  <div class="container">
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container"> 
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">.</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+          <a class="navbar-brand page-scroll" href="#main"><img src="images/logo-2.png" width="130" height="50" alt="iLand" /></a> </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li><a class="page-scroll" href="#main">Home</a></li>
+            <li><a class="page-scroll" href="#features">Visi & Misi</a></li>
+            <li><a class="page-scroll" href="#about">Tentang</a></li>
+            <li><a class="page-scroll" href="#tujuan">Tujuan</a></li>
+            <li><a class="page-scroll" href="#pricing">Berita</a></li>
+            <li><a class="page-scroll" href="#galeri">Galeri</a></li>
+            <li><a class="page-scroll" href="#contact">Kontak</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid -->
+  
+  <div class="main app form" id="main"><!-- Main Section-->
+    <div class="hero-section">
+      <div class="container nopadding">
+        <div class="col-md-5"> <img class="img-responsive wow fadeInUp" data-wow-delay="0.1s" src="images/hero3.png" alt="App" /> </div>
+        <div class="col-md-7">
+          <div class="hero-content">
+            <h1 class="wow fadeInUp" data-wow-delay="0.1s">Pondok Pesantren Assalam Arya Kemuning</h1>
+            <p class="wow fadeInUp" data-wow-delay="0.2s">Membentuk manusia yang beriman dan bertaqwa lahir batinnya, giat beramal, kuat beribadah, cerdas dalam berfikir, mandiri dan kreatif, memberi hidup dan manfaat bagi kehidupan diri dan lingkungannya.</p>
+            <a href="#" class="btn btn-action wow fadeInUp">Ayo Mondok!</a> </div>
+            </div> 
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Client Section -->
+    <div class="app-features text-center" id="features">
+      <div class="container">
+        <h1 class="wow fadeInDown" data-wow-delay="0.1s">Visi & Misi</h1>
+        <p class="wow fadeInDown" data-wow-delay="0.2s">Membentuk manusia yang beriman dan bertaqwa lahir batinnya, giat beramal, kuat beribadah, cerdas dalam berfikir,<br> mandiri dan kreatif, memberi hidup dan manfaat bagi kehidupan diri dan lingkungannya</p>
+        <div class="col-md-4 features-left">
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="icon"> <i class="ion-ios-people-outline"></i> </div>
+            <div class="feature-single">
+              <h1>Mencerminkan Nilai Islam</h1>
+              <p>Mengusahakan terbentuknya komunitas masyarakat yang mencerminkan nilai islam.</p>
+            </div>
+          </div>
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.3s">
+            <div class="icon"> <i class="ion-ios-refresh-outline"></i> </div>
+            <div class="feature-single">
+              <h1>Menghidupkan Semangat berislam</h1>
+              <p>Menghidupkan semangat berislam dan menjadikan setiap diri suritauladan umat.</p>
+            </div>
+          </div>
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.4s">
+            <div class="icon"> <i class="ion-ios-printer-outline"></i> </div>
+            <div class="feature-single">
+              <h1>Mencetak Kader</h1>
+              <p>Mencetak kader penerus perjuangan yang berkesinambungan, penggerak motor da’wah islam.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 wow fadeInDown" data-wow-delay="0.5s"> <img class="img-responsive" src="images/visi-misi.png" alt="App" /> </div>
+        <div class="col-md-4 features-left">
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.6s">
+            <div class="icon"> <i class="ion-ios-book-outline"></i> </div>
+            <div class="feature-single">
+              <h1>Kesempatan Belajar luas</h1>
+              <p>Memberi kesempatan belajar yang lebih luas kepada kaum dhu’afa dan para muallaf.</p>
+            </div>
+          </div>
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.7s">
+            <div class="icon"> <i class="ion-ios-person-outline"></i> </div>
+            <div class="feature-single">
+              <h1>Mencetak Kader Penerus</h1>
+              <p>Mencetak kader penerus perjuangan yang berkesinambungan, penggerak motor da’wah islam.</p>
+            </div>
+          </div>
+          <div class="col-md-12 wow fadeInDown" data-wow-delay="0.8s">
+            <div class="icon"> <i class="ion-ios-heart-outline"></i> </div>
+            <div class="feature-single">
+              <h1>Semangat berislam</h1>
+              <p>Menghidupkan semangat berislam dan menjadikan setiap diri suritauladan umat.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="split-features" id="about">
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/about1.png" alt="Image" /> </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-content">
+          <h1 class="wow fadeInUp">Sejarah Ponpes Assalam Arya Kemuning</h1>
+          <p class="wow fadeInUp">Pada bulan Agustus 1991 Majelis Ulama Indonesia Propinsi Kalimantan Timur menugaskan Ust. ARIEF HERI SETYAWAN menjadi Da’i Pembangunan untuk daerah Kecamatan Barong Tongkok Kabupaten Kutai (sekarang Kab.Kutai Barat) di pedalaman Ulu Mahakam dengan Surat Keputusan No.30 / MUI-KT / VII / 1991 / 1412 H tanggal 6 Muharrom 1412 H/18 Juli 1991. <br><br>Pada saat itu mengawali tugasnya bertempat di asrama tua Angkatan Darat dengan kondisi apa adanya yaitu dinding sudah tak ada yang utuh lagi, atap banyak yang bocor.</p>
+        </div>
+      </div>
+    </div>
+    
+    
+     <div class="split-features2">
+      
+      <div class="col-md-6 nopadding">
+        <div class="split-content second">
+          <h1 class="wow fadeInUp">Hal yang demikian malah memotivasi semangat dalam melaksanakan tugas da’wah</h1>
+          <p class="wow fadeInUp">Dengan keliling ke kampung-kampung door to door, menyampaikan tugas da’wah islam, setiap sore hari baru pulang ke asrama sambil membawa anak-anak yang mau dididik dan dibina tentang dinnul islam. <a href="#">more</a></p>
+        </div>
+      </div>
+      <div class="col-md-6 nopadding">
+        <div class="split-image"> <img class="img-responsive wow fadeIn" src="images/about5.png" alt="Image" /> </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="pitch text-center" id="tujuan">
+      <div class="container">
+        <div class="pitch-intro">
+          <h1 class="wow fadeInDown" data-wow-delay="0.2s">Tujuan Assalam</h1>
+          <p class="wow fadeInDown" data-wow-delay="0.2s">Menjadikan santri istikomah imanya, cerdas fikirannya, kuat ibadahnya dan berakhlkaqul karimah. Santri mampu menguasai ketrampilan hidup sesuai dengan bakat dan bidangnya.</p>
+        </div>
+        <div class="col-md-12">
+          <div class="col-md-4 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="pitch-icon"> <i class="ion-ios-lightbulb-outline"></i> </div>
+            <div class="pitch-content">
+              <h1>Semangat Belajar</h1>
+              <p>Menjadikan kampus sebagai ibu kandungnya, kondusif, mententramkan hati dan pikiran, sehingga setiap santri betah dan krasan dalam belajar.</p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="pitch-icon"> <i class="ion-ios-checkmark-outline"></i> </div>
+            <div class="pitch-content">
+              <h1>Menjadikan Contoh</h1>
+              <p>Menjadikan kampus sebagai contoh mini penerapan aturan dan adab-adab islam dalam kesehariannya.</p>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInDown" data-wow-delay="0.2s">
+            <div class="pitch-icon"> <i class="ion-ios-compose-outline"></i> </div>
+            <div class="pitch-content">
+              <h1>Memahami Islam</h1>
+              <p>Santri menguasai pengetahuan dasar islam ( minimal ) dan mengejawantahkan dalam aspek hidup dan kehidupannya.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="feature-sub">
+      <div class="container">
+        <div class="sub-inner">
+          <h1 class="wow fadeInUp">Ponok Pesantren Assalam Arya Kemuning Kubar | Istiqomah Ibadah Hidup Berkah</h1>
+          <a href="#" class="btn btn-action wow fadeInUp">Ayo Mondok!</a> </div>
+      </div>
+    </div>
+    <div id="pricing" class="pricing-section text-center">
+      <div class="container">
+        <div class="col-md-12 col-sm-12 nopadding">
+          <div class="pricing-intro">
+            <h1 class="wow fadeInUp" data-wow-delay="0s">Berita Terbaru</h1>
+            <p class="wow fadeInUp" data-wow-delay="0.2s">Berita tentang kegiatan Pondok Pesantren Assalam Arya Kemuning<br class="hidden-xs">seputar dakwah, pendidikan dan etos jihad.</p>
+          </div>
+          <div class="col-sm-4">
+            <div class="table-left wow fadeInUp" data-wow-delay="0.4s">
+              <div class="news"><img src="images/news1.png" alt="image"></div>
+              <div class="pricing-details">
+                <h2>Kegiatan Dakwah Santri</h2>
+                <p>Alhamdulillah, di Pondok Pesantren Assalam selain menuntut ilmu, para santri juga diberi kesempatan untuk terjun ke masyarakat <br><br> santri diberi kesempatan untuk mengajari muallaf mengaji sesuai dengan yang telah di ajarkan.</p>
+                <a href="file1.html"><button class="btn btn-primary btn-action btn-fill">Selengkapnya</button></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="table-right table-center wow fadeInUp" data-wow-delay="0.6s">
+              <div class="news"><img src="images/news2.png" alt="image"></div>
+              <div class="pricing-details"> 
+                <h2>Kaderisasi Pesantren – Lanjut Studi Ke Istanbul University Turki</h2>
+                <p>Alhamdulillah kegiatan kaderisasi pendidikan di Pondok Pesantren Assalam terus dilakukan, guna mempersiapkan generasi penerus perjuangan dakwah dan pendidikan Islam di Pesantren Assalam.</p>
+                <a href="file2.html"><button class="btn btn-primary btn-action btn-fill">Selengkapnya</button></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="table-left wow fadeInUp" data-wow-delay="0.4s">
+              <div class="news"><img src="images/news3.png" alt="image"></div>
+              <div class="pricing-details">
+                <h2>Etos Kerja Kebun Santri</h2>
+                <p>Alhamdulillah kegiatan kebun santri menanam kacang panjang, petik daun singkong dan jeruk lemon <br><br>santri diberi kesempatan untuk mengembangkan hoby mereka dalam bertani</p>
+                <a href="file3.html"><button class="btn btn-primary btn-action btn-fill">Selengkapnya</button></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Galeri -->
+
+    <div id="galeri" class="pricing-section text-center galeri">
+      <div class="container">
+        <div class="col-md-12 col-sm-12 nopadding">
+          <div class="pricing-intro">
+            <h1 class="wow fadeInUp" data-wow-delay="0s">Galeri Assalam</h1>
+          </div>
+          <div class="col-sm-4">
+            <div class="wow fadeInUp" data-wow-delay="0.4s">
+              <img src="images/1.png" alt="" class="responsive-img materialboxed">
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="wow fadeInUp" data-wow-delay="0.4s">
+              <img src="images/2.png" alt="" class="responsive-img materialboxed">
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="wow fadeInUp" data-wow-delay="0.4s">
+              <img src="images/3.png" alt="" class="responsive-img materialboxed">
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="wow fadeInUp" data-wow-delay="0.4s">
+              <img src="images/4.png" alt="" class="responsive-img materialboxed">
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="wow fadeInUp" data-wow-delay="0.4s">
+              <img src="images/5.png" alt="" class="responsive-img materialboxed">
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="wow fadeInUp" data-wow-delay="0.4s">
+              <img src="images/6.png" alt="" class="responsive-img materialboxed">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+   
+    
+    <!-- Subscribe Form -->
+    <div class="cta-sub no-color">
+      <div class="container">
+        <div class="cta-inner">
+          <h1 class="wow fadeInUp" data-wow-delay="0s">Pondok Pesantren Assalam Arya Kemuning</h1>
+          <p class="wow fadeInUp" data-wow-delay="0.2s">Berikan komentar, saran & masukan anda agar Ponpes Assalam <br>bisa menjadi pondok idaman.</p>
+          <div class="form wow fadeInUp" data-wow-delay="0.3s">
+            <form class="subscribe-form center-form wow zoomIn" action="php/subscribe.php" method="post" name="subscribeform" id="subscribeform">
+              <input class="mail" type="email" name="email" placeholder="Ketik komentar" autocomplete="off" id="subemail">
+              <input class="submit-button" type="submit" value="Kirim" name="send" id="subsubmit">
+            </form>
+              <!-- subscribe message -->
+        <div id="mesaj"></div>
+        <!-- subscribe message --> 
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Footer Section -->
+    <div class="footer" id="contact">
+      <div class="container">
+        <div class="col-md-7"> <img src="images/logo-2.png" width="130" height="50" alt="Image" />
+          <p>Membentuk manusia yang beriman dan bertaqwa lahir batinnya, giat beramal, kuat beribadah, cerdas dalam berfikir, mandiri dan kreatif, memberi hidup dan manfaat bagi kehidupan diri dan lingkungannya.</p>
+          <div class="footer-text">
+            <p> Copyright © 2022 sasa. All Rights Reserved. Made with <i class="ion-heart"></i> by <a href="https://www.instagram.com/muhsamaan_/">sasaLens</a></p>
+          </div>
+        </div>
+        <div class="col-md-5">
+            <h1>Contact Us</h1>
+            <p>Simpang Raya, Kec. Barong Tongkok, Kabupaten Kutai Barat, Kalimantan Timur 75777</p>
+            <a href="https://www.facebook.com/assalamkutaibarat" target="_blank" ><i class="ion-social-facebook"></i></a>  
+            <a href="https://www.instagram.com/ponpes_assalamkubar/" target="_blank" ><i class="ion-social-instagram"></i></a>
+            <a href="#" ><i class="ion-social-twitter"></i></a>
+            <a href="https://www.youtube.com/channel/UCAqyJ__QX3b8IGfbj0YrwoA" target="_blank" ><i class="ion-social-youtube"></i></a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Scroll To Top --> 
+    
+    <a id="back-top" class="back-to-top page-scroll" href="#main"> <i class="ion-ios-arrow-thin-up"></i> </a> 
+    
+    <!-- Scroll To Top Ends--> 
+    
+  </div>
+  <!-- Main Section --> 
+</div>
+<!-- Wrapper--> 
+
+<!-- Jquery and Js Plugins --> 
+<script type="text/javascript" src="js/jquery-2.1.1.js"></script> 
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+<script type="text/javascript" src="js/plugins.js"></script> 
+<script type="text/javascript" src="js/menu.js"></script> 
+<script type="text/javascript" src="js/custom.js"></script>
+<script src="js/jquery.subscribe.js"></script> 
+</body>
+</html>
